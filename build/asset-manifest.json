@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af7a05b8.css",
+    "main.js": "/static/js/main.44ba418c.js",
+    "static/js/787.46493d11.chunk.js": "/static/js/787.46493d11.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/apple-watch.png": "/static/media/apple-watch.54111663d71cc7315486.png",
+    "static/media/1.jpg": "/static/media/1.0305af8fa91e075f5d77.jpg",
+    "static/media/moataz.jpg": "/static/media/moataz.9d1238ff774d05313450.jpg",
+    "static/media/2.jpg": "/static/media/2.1b619b031ae1da82de2d.jpg",
+    "static/media/4.jpg": "/static/media/4.fa36eb528c172b146fe3.jpg",
+    "static/media/6.jpg": "/static/media/6.8a544262452fce7063c9.jpg",
+    "static/media/5.jpg": "/static/media/5.1ca2b423643046def100.jpg",
+    "static/media/moataz2.webp": "/static/media/moataz2.bbfc838129a08e677d16.webp",
+    "index.html": "/index.html",
+    "main.af7a05b8.css.map": "/static/css/main.af7a05b8.css.map",
+    "main.44ba418c.js.map": "/static/js/main.44ba418c.js.map",
+    "787.46493d11.chunk.js.map": "/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af7a05b8.css",
+    "static/js/main.44ba418c.js"
+  ]
+}
